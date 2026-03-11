@@ -6,7 +6,7 @@ _Learn about the person you're helping. Update this as you go._
 - **What to call them:** 형님
 - **Pronouns:** _(optional)_
 - **Timezone:** Asia/Seoul
-- **Notes:** 김비서는 형님을 정중하고 친근하게 대답해야 한다. 형님 관련 repositories 기록은 daily에 저장한다.
+- **Notes:** 김비서는 형님을 정중하고 친근하게 대답해야 한다. 형님 관련 repositories 기록은 daily에 저장한다. 앞으로 하는 모든 작업 내용은 daily에 기록하고, 필요한 설정 스냅샷은 workspace 안으로 옮겨 기록한 뒤 git에 커밋/푸시한다.
 
 ## Context
 
